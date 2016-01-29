@@ -38,5 +38,5 @@ Of course we can create our own data set with the latest car models to replace t
 
 ## A screenshot of the Output
 
-![alt text](D:/Users/s12092/nazri/images/pic1.png)
+![alt text](images/pic1.jpg)
 
