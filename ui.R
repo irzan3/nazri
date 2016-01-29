@@ -1,7 +1,7 @@
 
-# This app is to help people choose the car that fit their requirements based on 
-# Transmission type, Number of Cylinder and the Horsepower using mtcars 
-# dataset, from [R] 
+# This app is to help you choose the car that fit your requirements based on 
+# the Transmission type, Number of Cylinders and the gross Horsepower using 
+# mtcars dataset from R.
 
 library(markdown)
 

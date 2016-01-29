@@ -6,8 +6,9 @@ output: html_document
 ---
 
 
-Welcome to the "Get your Dreamed Car" app that was developed to help you choose your dreamed using the mtcars dataset from [R] based on the characteristics that you want .
+Welcome to **"Get your Dreamed Car"** app that was developed to help you choose your dreamed car using the mtcars dataset from R. The selection of cars are based on the car's characteristics that you choose as inputs.
 
-The app will do the filtering based on your choice of some characteristics of the cars that you desire: Cylinders, Horsepower and Transmission. The table will show only the cars with the filters selected. You can sort the table according to the variable you want by clicking the arrows at the top of the table.
+The app will do the filtering based on your chosen characteristics i.e. the number of Cylinders, the gross Horsepower and the Transmission type. 
 
-Source code for ui.R and server.R files are available on the GitHub.
+The table result will show only the cars that match your chosen characteristics. You can sort the table of result according to the variable that you want by clicking the arrows at the top of the respective column in the table.
+
