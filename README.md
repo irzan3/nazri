@@ -11,7 +11,7 @@ The peer assessed assignment has two parts. First, we need to create a **Shiny a
 
 The app developed for the **first part** of the assignment is available at: ***https://irzan3.shinyapps.io/nazri/***
 
-The presentation is available at: ***https://rpubs.com/irzan3/***
+The presentation for the **second part (Part 2)** is available at: ***https://rpubs.com/irzan3/***
 
-Files for the presentation are available on the GitHub: ***https://github.com/irzan3/nazri***
+Files for the app and presentation are available on the GitHub: ***https://github.com/irzan3/nazri***
 
